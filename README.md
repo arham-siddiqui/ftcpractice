@@ -1,3 +1,0 @@
-# ftcpractice
-
-practicing ftc software here...
